@@ -1,0 +1,12 @@
+Task-1:
+Create a GitHub repository.
+Clone the repository to a local machine.
+Create a sample file and push it to GitHub.
+Install Jenkins (local/VM).
+Connect Jenkins with the GitHub repository.
+Create a simple Jenkins job that pulls code from GitHub.
+Prepare a 1-page document explaining:
+What is Git?
+What is GitHub?
+What is Jenkins?
+Why do we use CI/CD?
